@@ -1,0 +1,9 @@
+# big 0
+
+# complexidade temporal
+melhor -> O(1) : tempo contante
+boa -> O(log n) : tempo logaritmico
+ok O(n) : tempo linear
+
+# complexidade espacial
+O(1)
